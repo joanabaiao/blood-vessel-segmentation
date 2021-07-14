@@ -5,12 +5,16 @@ This work starts with 3D visualizations of a vascular network and automatically 
 ## Reconstruction
 File: *reconstruction3d.py*
 
-![Image 1](/images/logo.png)
+![Image 1](/images/image1.png)
 
 ## 3D Thinning algorithm
 File: *thinning.py*
 
+![Image 2](/images/image2.png)
+
 ## Counting the number of vessels and bifurcations + Volume and diameter 
 File: *main.py*
+
+![Image 3](/images/image3.png)
 
 
