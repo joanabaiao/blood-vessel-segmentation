@@ -2,7 +2,7 @@
 
 This work starts with 3D visualizations of a vascular network and automatically calculates the number of vessels, their diameter and the number of bifurcations. These values are needed to calculate blood flow and tissue irrigation, which characterize changes in vascular network function.
 
-## Reconstruction
+## 3D Reconstruction
 File: *reconstruction3d.py*
 
 ![Image 1](/images/image1.png)
